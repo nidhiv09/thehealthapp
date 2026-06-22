@@ -11,7 +11,7 @@ This project includes an ECG-based arrhythmia classification module used to supp
 Note: The ML module is maintained separately and can be integrated with the backend for real-time inference.  
 Refer to the backend implementation: https://github.com/nidhiv09/AIAM.git
 
-Hardware Device Document: https://docs.google.com/document/d/1jCtjUZlMCq8EOS6rEezqeu3t8Kw1eHbKTaZjXdLoMpY/edit?usp=sharing
+Hardware Device Document: https://drive.google.com/file/d/1FyTM0Pw4xq8qQBg3LNlcD6_upfRHf92O/view?usp=drive_link
 
 ## Features
 
