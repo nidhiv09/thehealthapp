@@ -37,7 +37,7 @@ Hardware Device Document: https://drive.google.com/file/d/1FyTM0Pw4xq8qQBg3LNlcD
 This application requires a hardware device and backend API for authentication, health data processing, and AI insights generation.  
 Refer to the backend implementation: https://github.com/nidhiv09/AIAM.git
 
-Hardware Device Document: https://docs.google.com/document/d/1jCtjUZlMCq8EOS6rEezqeu3t8Kw1eHbKTaZjXdLoMpY/edit?usp=sharing
+Hardware Device Document: https://drive.google.com/file/d/1FyTM0Pw4xq8qQBg3LNlcD6_upfRHf92O/view?usp=drive_link
 
 ## Project Structure
 
